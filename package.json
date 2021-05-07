@@ -39,7 +39,7 @@
     "spawn-promise": "^0.1.8",
     "superagent": "^3.8.3",
     "ua-parser-js": "^0.7.19",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "underscore.nest": "^0.1.1",
     "uuid": "^3.3.2"
   },
