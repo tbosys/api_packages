@@ -20,7 +20,7 @@
     "child-process-promise": "^2.2.1",
     "directory-tree": "^2.1.0",
     "exact-math": "^2.0.0",
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.7.7",
     "jwt-simple": "^0.5.1",
     "knex": ">=0.19.5",
     "knex-migrate": "^1.7.0",
