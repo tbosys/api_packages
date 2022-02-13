@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@awspilot/dynamodb": "^1.2.8",
-    "ajv": "^6.5.1",
+    "ajv": "^6.12.3",
     "ajv-i18n": "^3.3.0",
     "array-to-tree": "^3.3.0",
     "base64-url": "^2.3.2",
